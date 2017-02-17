@@ -33,7 +33,7 @@ for i in range(10000):
 # PARSE IMAGE
 import scipy.misc as sp
 
-arr = sp.imread("./defsnota5.png")
+arr = sp.imread("./defsnota2.png")
 
 newArr = []
 
